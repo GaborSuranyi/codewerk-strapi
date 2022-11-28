@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "dbdplus_users",
+  "info": {
+    "singularName": "dbdplus-user",
+    "pluralName": "dbdplus-users",
+    "displayName": "dbdplus-user"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "access_token": {
+      "type": "string"
+    }
+  }
+}
